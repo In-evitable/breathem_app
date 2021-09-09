@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970828753666",
+    "project_id": "breathem-app-931a5",
+    "storage_bucket": "breathem-app-931a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970828753666:android:1d44071c04f48a994b301b",
+        "android_client_info": {
+          "package_name": "com.createcorp.breathem_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970828753666-79qojltp7vgmei1mi5nt3mgujcldefrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.createcorp.breathem_app",
+            "certificate_hash": "7868b8445d0e951bcf23bef1d171e7ecc3697ec0"
+          }
+        },
+        {
+          "client_id": "970828753666-fgj8ea63o6e2oeasmee716brim4bi6aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjhow_2k4VbEszXCgLv26-9te4AomDYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970828753666-fgj8ea63o6e2oeasmee716brim4bi6aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
